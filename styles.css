@@ -411,6 +411,58 @@ button[onclick="showSuccessMessage()"] {
     font-size: 14px; 
     white-space: nowrap; 
     overflow: hidden;
-  }
+}
+/* Responsive styles */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    #view-customer .container {
+        max-width: 90%;
+        margin: 20px auto;
+        padding: 10px;
+    }
+
+    .transfer-details {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .transfer-details div {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .box {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    form input, form textarea, form button {
+        width: 100%;
+    }
+    
+    button[onclick="showSuccessMessage()"] {
+        width: 100%;
+    }
+    
+    footer {
+        padding: 10px 0;
+    }
+
+    section {
+        padding: 20px;
+    }
   
   
