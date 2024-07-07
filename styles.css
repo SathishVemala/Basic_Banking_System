@@ -427,7 +427,6 @@ button[onclick="showSuccessMessage()"] {
        text-align:left;
    }
 }
-  
   /* styles for tablet devices */
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     body {
