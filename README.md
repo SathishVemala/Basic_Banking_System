@@ -9,9 +9,6 @@
 - HTML
 - CSS
 - Bootstrap
-> ### Back-End:
--  PHP 
--  MYSQL
 
 ### Flow of the website
 Home > Contact Us > Customer Details > Transfer Money 
