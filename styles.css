@@ -4,7 +4,6 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
-
 header {
     background-color: #3b0d69;
     padding: 20px 0;
@@ -32,13 +31,11 @@ header {
 .navbar nav ul li {
     margin-left: 20px;
 }
-
 nav {
     display: flex;
     justify-content: flex-end; 
     padding: 0 20px; 
 }
-
 nav ul {
     list-style: none;
     margin: 0;
@@ -46,19 +43,16 @@ nav ul {
     display: flex;
     justify-content: center;
 }
-
 nav ul li {
     display:inline;
     margin: 0 20px;
 }
-
 nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
     font-size: 18px;
 }
-
 #view-customer .container {
     max-width: 1000px;
     margin: 40px auto;
@@ -84,104 +78,83 @@ h2 {
     text-align: center;
     color: #333;
 }
-
 table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
     background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
 }
-
 table th, table td {
     padding: 10px;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
-
 table th {
     background-color: purple;
     color: white;
 }
-
 table tbody tr:nth-child(even) {
     background-color: rgba(138, 43, 226, 0.1); /* Light purple background for even rows */
 }
-
 table tbody tr:hover {
     background-color: rgba(138, 43, 226, 0.2); /* Darker purple on hover */
 }
-
-
 /* Styles for table content */
 table tbody td {
     color: green; /* Green text color */
 }
-
 #view-customer .container img {
     width: 100%;
     height: auto;
     border-radius: 10px;
 }
-
 section {
     padding: 50px 20px;
 }
-
-
 #home {
     text-align: center;
     background: linear-gradient(to right, #5f27cd, #9b59b6);
     color: white;
     padding: 100px 20px;
 }
-
 #view-customer table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
 }
-
 #view-customer th, #view-customer td {
     border: 1px solid #ddd;
     padding: 10px;
     text-align: center;
 }
-
 #view-customer th {
     background-color: #3b0d69;
     color: white;
 }
-
 #transfer .transfer-details {
     display: flex;
     justify-content: space-between;
 }
-
 #transfer .transfer-details .sender, #transfer .transfer-details .receiver {
     width: 45%;
 }
-
 form input, form textarea, form button {
     display: block;
     width: 100%;
     padding: 10px;
     margin-bottom: 14px;
 }
-
 footer {
     text-align: center;
     padding: 20px 0;
     background-color: #3b0d69;
     color: white;
 }
-
-
 header {
     background-color: #3b0d69;
     color: white;
     padding: 15px 0;
 }
-
 nav ul {
     list-style: none;
     margin: 0;
@@ -189,90 +162,74 @@ nav ul {
     display: flex;
     justify-content: center;
 }
-
 nav ul li {
     margin: 0 20px;
 }
-
 nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
-
 section {
     padding: 50px 20px;
 }
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
 }
-
 #home {
     text-align: center;
     background: linear-gradient(to right, #5f27cd, #9b59b6);
     color: white;
     padding: 100px 20px;
 }
-
 #view-customer table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
 }
-
 #view-customer th, #view-customer td {
     border: 1px solid #ddd;
     padding: 10px;
     text-align: center;
 }
-
 #view-customer th {
     background-color: #3b0d69;
     color: white;
 }
-
 #transfer .transfer-details {
     display: flex;
     background-color:#9b59b6;
     justify-content:space-around;
 }
-
 #transfer .transfer-details .sender, #transfer .transfer-details .receiver {
     width: 40%;
 }
-
 form input, form textarea, form button {
     display: block;
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
 }
-
 footer {
     text-align: center;
     padding: 20px 0;
     background-color: #3b0d69;
     color: white;
 }
-
 #contact {
     text-align: center;
     padding: 50px 20px;
     background: linear-gradient(to right, #4b0082, #5f27cd);
     color: white;
 }
-
 table tbody tr:hover {
     background-color: #f1f1f1;
 }
-
 center button:hover {
     text-align: center;
 }
-
 #contact h2 {
     color: white; /* Set the heading color to white */
 }
@@ -290,11 +247,9 @@ button {
     cursor: pointer;
     text-align: center;
 }
-
 button:hover {
     background-color: #5c1a9d;
 }
-
 #msg {
     text-align: center;
     margin-top: 20px;
@@ -308,27 +263,22 @@ button:hover {
     width: 300px;
     text-align: center;
 }
-
 .box form {
     display: flex;
     flex-direction: column;
 }
-
 .box form label {
     margin-top: 10px;
 }
-
 .box form input {
     margin-top: 5px;
     padding: 5px;
     border-radius: 5px;
     border: none;
 }
-
 .box img {
     margin: 20px 0;
 }
-
 .box button {
     background-color: #8e24aa;
     border: none;
@@ -338,14 +288,12 @@ button:hover {
     cursor: pointer;
     font-size: 16px;
 }
-
 footer {
     text-align: center;
     padding: 10px;
     background-color: #4a148c;
     color: white;
 }
-
 footer a {
     color: white;
     text-decoration: none;
@@ -355,7 +303,6 @@ button[type="Submit"] {
     height: 40px; /* Adjust height as desired */
     padding: 10px; /* Adjust padding to maintain content spacing */
 }
-
 .container {
     max-width: 600px;
     margin: 0 auto;
