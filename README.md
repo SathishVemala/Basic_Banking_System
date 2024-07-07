@@ -20,7 +20,7 @@ Below are the screenshots of the website
 
 
 <img width="651" alt="3" src="Customer Details.jpeg">
-<img width="668" alt="5" src="https://user-images.githubusercontent.com/67001353/102710627-96300d00-42d9-11eb-9021-94c177b0de18.png">
+<img width="668" alt="5" src="Transfer Money.jpeg">
 
 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞: https://sathishvemala.github.io/Basic_Banking_System/
 
