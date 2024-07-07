@@ -417,13 +417,16 @@ button[onclick="showSuccessMessage()"] {
     overflow: hidden;
 }
 /* styles for desktop devices */
-@media only screen and (min-width: 992px) {
-    body {
-      font-size: 16px;
-      width: 100%;
-      margin: auto;
+@media(max-width:990px)
+{
+    .logo{
+        width:100%;
     }
-  }
+   .mainheader nav{
+       width:100%;
+       text-align:left;
+   }
+}
   
   /* styles for tablet devices */
   @media only screen and (min-width: 768px) and (max-width: 991px) {
