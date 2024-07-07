@@ -412,3 +412,14 @@ button[onclick="showSuccessMessage()"] {
     white-space: nowrap; 
     overflow: hidden;
 }
+
+@media(max-width:990px)
+{
+    .logo{
+        width:100%;
+    }
+   .mainheader nav{
+       width:100%;
+       text-align:left;
+   }
+}
