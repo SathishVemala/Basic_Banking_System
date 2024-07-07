@@ -416,7 +416,7 @@ button[onclick="showSuccessMessage()"] {
     white-space: nowrap; 
     overflow: hidden;
 }
-@media(max-width:1000px)
+@media(max-width:990px)
 {
     .logo{
         width:100%;
