@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TSF Bank</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#view-customer">View Customer</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h1>TSF BANK</h1>
+            <p>A CUSTOMER is the most important visitor on our premises</p>
+            <img src="/Users/vemalasathish/Basic Banking System/image/12.png" alt="Bank Illustration">
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <center><h2>CONTACT US</h2></center>
+            <center><p class="normal-text">We're Here To Help And Answer Any Questions You Might Have. We Look Forward To Hearing From You.</p></center>
+            <form>
+                <input type="text" placeholder="Enter name">
+                <input type="email" placeholder="Enter email">
+                <input type="tel" placeholder="Enter mobile number">
+                <textarea placeholder="Your Comments"></textarea>
+                <center><p><button type="submit">Submit</button></p></center>
+            </form>
+            <div class="success-message" id="successMessage">Your message has been sent successfully!</div>
+            <span id="form"></span>
+            </div>
+            </section>
+        </body>
+
+    <section id="view-customer">
+        <div class="container">
+            <h2>Customer Details</h2>
+            <table>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Amount</th>
+                    <th>Operation</th>
+                    <tr>
+                        <td>1</td>
+                        <td>Vemala Sathish</td>
+                        <td>sathisathishkumar28@gmail.com</td>
+                        <td>1700</td>
+                        <td><button>&#9993;</button></td>
+                    </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Shreya Choudhary</td>
+                    <td>shreya@gmail.com</td>
+                    <td>1200</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Dhanashree Choudhary</td>
+                    <td>dhanashree@gmail.com</td>
+                    <td>2000</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Honnesha Singh</td>
+                    <td>honnesha@gmail.com</td>
+                    <td>1700</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Sara Singh</td>
+                    <td>sara@gmail.com</td>
+                    <td>2000</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Sarita Choudhary</td>
+                    <td>sarita@gmail.com</td>
+                    <td>5000</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Sangeeta Choudhary</td>
+                    <td>sangeeta@gmail.com</td>
+                    <td>5500</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Harendra Choudhary</td>
+                    <td>harendra@gmail.com</td>
+                    <td>7500</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Anil Choudhary</td>
+                    <td>anil@gmail.com</td>
+                    <td>3900</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Usha Singh</td>
+                    <td>usha@gmail.com</td>
+                    <td>9000</td>
+                    <td><button>&#9993;</button></td>
+                </tr>
+        </tr>
+        </table>      
+        </div>
+    <section>
+        
+    </section>
+
+    <section id="transfer">
+        <div class="container">
+            <h2>Transfer Money</h2>
+                <form id="transferForm">
+                <div class="transfer-details">
+                    <div class="sender">
+                        <h3>Sender Details</h3>
+                        <input type="text" placeholder="Enter your name">
+                        <input type="email" placeholder="Enter email id">
+                        <input type="number" placeholder="Enter amount">
+                    </div>
+                    <div class="receiver">
+                        <h3>Receiver Details</h3>
+                        <input type="text" placeholder="Enter your name">
+                        <input type="email" placeholder="Enter email id">
+                    </div>
+                </div>
+                <br>
+                <center><button type="button" onclick="showSuccessMessage()">Proceed to Pay</button></center>
+            </form>
+            <div class="success-message" id="SuccessMessage">Transaction Successful!</div>
+                </div>
+                </section>
+    <footer>
+        <p>All rights reserved © Vemala Sathish</p>
+    </footer>
+    <script src="scripts.js"></script>
+    </section>
+    </html>
