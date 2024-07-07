@@ -24,4 +24,5 @@ Below are the screenshots of the website
 
 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞: https://sathishvemala.github.io/Basic_Banking_System/
 
-👉𝐍𝐨𝐭𝐞: View in Desktop For Better Experience 
+👉𝐍𝐨𝐭𝐞: 1. Not Supported for mobile devices  
+       2. View in Desktop For Better Experience 
