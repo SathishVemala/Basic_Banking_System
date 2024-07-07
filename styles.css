@@ -416,7 +416,7 @@ button[onclick="showSuccessMessage()"] {
     white-space: nowrap; 
     overflow: hidden;
 }
-/* styles for desktop devices */
+/* styles for mobile devices */
 @media(max-width:990px)
 {
     .logo{
@@ -434,14 +434,5 @@ button[onclick="showSuccessMessage()"] {
       font-size: 14px;
       width: 90%;
       margin: auto;
-    }
-  }
-  
-  /* styles for mobile devices */
-  @media only screen and (max-width: 767px) {
-    body {
-      font-size: 12px;
-      width: 100%;
-      margin: 0;
     }
   }
