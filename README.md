@@ -2,7 +2,7 @@
 
 ## Introduction
 >  
-> A web application used to transfer money between two users.
+> A website used to transfer money between two users.
 
 ## Technologies Used:
 >  ### Front-End:
