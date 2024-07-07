@@ -401,7 +401,6 @@ button:hover {
     font-weight: bold;
     margin-top: 20px;
 }
-
 button[onclick="showSuccessMessage()"] {
     width: 115px;
     margin: 0 auto;
