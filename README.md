@@ -14,7 +14,7 @@
 -  MYSQL
 
 ### Flow of the website
-Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
+Home > Contact Us > Customer Details > Transfer Money 
 
 Below are the screenshots of the website
 
