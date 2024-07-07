@@ -19,7 +19,7 @@ Home > Contact Us > Customer Details > Transfer Money
 Below are the screenshots of the website
 
 <img width="649" alt="1" src="Home.jpeg">
-<img width="645" alt="2" src="https://user-images.githubusercontent.com/67001353/102710493-bf03d280-42d8-11eb-96e0-85489c36fab0.png">
+<img width="645" alt="2" src="Contact Us.jpeg">
 
 
 <img width="651" alt="3" src="https://user-images.githubusercontent.com/67001353/102710624-916b5900-42d9-11eb-8a88-169054aa948f.png">
